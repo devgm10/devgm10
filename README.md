@@ -16,7 +16,7 @@
 
 Construyo software de principio a fin: del componente al contenedor, y del contenedor a la nube.
 
-Más de **4 años** entregando soluciones integrales. Lideré el desarrollo de ERPs agrícolas y plataformas geoespaciales en **Agrovision Corp**, donde dirigí la migración a AWS y la adopción de contenedores. Mi enfoque no se agota en la ejecución técnica: parto del objetivo de negocio y diseño la arquitectura desde ahí.
+Más de **5 años** entregando soluciones integrales. Lideré el desarrollo de ERPs agrícolas y plataformas geoespaciales en **Agrovision Corp**, donde dirigí la migración a AWS y la adopción de contenedores. Mi enfoque no se agota en la ejecución técnica: parto del objetivo de negocio y diseño la arquitectura desde ahí.
 
 Trabajo cómodo en ambas orillas — diseñando una API en Django, montando un pipeline de CI/CD, o escribiendo la infraestructura en Terraform.
 
