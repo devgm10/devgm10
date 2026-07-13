@@ -22,7 +22,7 @@ Trabajo cómodo en ambas orillas — diseñando una API en Django, montando un p
 
 <table align="center">
   <tr>
-    <td align="center"><b>+4</b><br><sub>AÑOS DE EXPERIENCIA</sub></td>
+    <td align="center"><b>+5</b><br><sub>AÑOS DE EXPERIENCIA</sub></td>
     <td align="center"><b>30%</b><br><sub>MAYOR EFICIENCIA</sub></td>
     <td align="center"><b>85%</b><br><sub>DESPLIEGUE MÁS RÁPIDO</sub></td>
     <td align="center"><b>25%</b><br><sub>OPTIMIZACIÓN CLOUD</sub></td>
